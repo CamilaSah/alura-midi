@@ -11,9 +11,11 @@ Não foram utilizados recursos avançados do JavaScript, como integração com b
 
 - `Reproduzir som ao clicar no botão`: ao clicar em um dos 9 botões será reproduzido o som conforme descrito no botão
 
+![apresentacao-alura-midi](https://github.com/CamilaSah/alura-midi/assets/128820692/923143db-fe4b-4a2f-b171-818da5c1d098)
+
 ## 📁 Acesso ao projeto
 
-Você pode acessar o site clicando [aqui]
+Você pode acessar o projeto clicando [aqui](https://alura-midi-psi-six.vercel.app/).
 
 ## ✔️ Técnicas e tecnologias utilizadas
 
