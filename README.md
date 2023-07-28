@@ -22,9 +22,9 @@ Você pode acessar o projeto clicando [aqui](https://alura-midi-psi-six.vercel.a
 Técnicas utilizadas:
 - ``Função``: o que é, para que serve, como declará-la e sua sintaxe básica.
 - ``Função alert()``: cria uma janela com uma mensagem, sendo utilizada em várias aplicações para testar e para mandar mensagens para os usuários.
-- ``Função querySelector()``: faz uma busca do elemento pelo seletor (elemento, classe e id)
+- ``Função querySelector()``: faz uma busca do elemento pelo seletor (elemento, classe e id).
 - ``Função querySelectorAll()``: retorna uma lista (NodeList) com todos os elementos do seletor informado evitando a repetição de código.
-- ``Função play()``: reproduzir o som
+- ``Função play()``: reproduzir o som.
 - ``Funções anônimas``: são funções sem nome que foram utilizadas quando elas são o valor de algum atributo ou estão sendo armazenadas dentro de alguma referência constante ou variável.
 - ``Referências``: para que serve e como declaramos uma referência de valor constante (const) e variável (let) no código.
 - ``Comentários de código``: o que são e como utilizá-los para auxiliar durante a escrita da nossa aplicação.
@@ -32,21 +32,21 @@ Técnicas utilizadas:
 - ``Parâmetros``: como declarar e utilizar parâmetros dentro de uma função que criamos.
 - ``Eventos no teclado``: o que são eventos do teclado e como usá-los: onkeydown e onkeyup.
 - ``Template string (${})``: Como criar textos dinâmicos.
-- ``While (enquanto``): estrutura de laço de repetição ou de loop, para percorrer uma lista
+- ``While (enquanto``): estrutura de laço de repetição ou de loop, para percorrer uma lista.
 - ``For (para)``: estrutura de laço de repetição ou de loop. Enquanto uma instrução, uma condição for verdade, ele vai repetir essa rotina. A vantagem em relação ao while é que o contador, a condição para o nosso laço encerrar e a incrementação do contador (mais enxuto: contador++) pode ser declarado ainda dentro dos parênteses do for. 
-- ``If e else``: estrutura condicional
+- ``If e else``: estrutura condicional.
 - ``Atributo onclick``: adicionar código JavaScript inline e como atribuir uma função ao onclick sem que esta função seja invocada imediatamente.
 - ``Atributo length``: valor do tamanho de uma lista.
 - ``Atributo classList``: como acessar as classes de um elemento, adicionar e remover uma classe em um elemento HTML através do JavaScript, com as funções add e remove.
 - ``Operadores lógicos``: operador de igualdade (==), estritamente igual (===), operador or (||), not equals (!=), operador lógico and (&&) e o valor null.
 - ``Tag <script>``: responsável por carregar o arquivo .js dentro de uma página HTML.
-- ``Tag <audio>``: manipular esta tag através do Javascript
+- ``Tag <audio>``: manipular esta tag através do Javascript.
 
 Tecnologias e ferramentas utilizadas:
-- ``Visual Studio Code``: editor de código
-- ``Firefox e Chrome``: navegadores utilizados para teste
-- ``HTML``: fazer a estrutura semântica da página
-- ``CSS``: fazer os estilos da página
+- ``Visual Studio Code``: editor de código.
+- ``Firefox e Chrome``: navegadores utilizados para teste.
+- ``HTML``: fazer a estrutura semântica da página.
+- ``CSS``: fazer os estilos da página.
 - ``JavaScript``: adicionar o dinamismo e as atualizações de programação, a lógica na página.
 - ``DevTools``: utilizamos a aba “Console”, no qual podemos executar qualquer código JavaScript, além de nos ajudar a desenvolver, a entender o nosso código e ver como os erros são apresentados.
 - ``Git``: Ferramenta de controle de versão de seu arquivo, projeto ou código. 
